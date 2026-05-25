@@ -14,7 +14,7 @@ const Contact = () => {
           Let's build something amazing together.
         </p>
 
-        <div className="flex justify-center gap-8 text-3xl">
+        <div className="flex justify-center gap-4 text-3xl">
           <a href="https://github.com/vivektech1505">
             <FaGithub className="hover:text-cyan-400 transition" />
           </a>
